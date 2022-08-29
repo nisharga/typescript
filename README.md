@@ -23,7 +23,7 @@ then smartest method this is......................<br>
 
 <code>
 	
-interface Kaj{</br>
+interface Kaj{</br><br><br>
   title: string;<br>
   bill: number;<br>
   suti: boolean;<br>
