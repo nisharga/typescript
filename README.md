@@ -23,16 +23,16 @@ then smartest method this is......................<br>
 
 <code>
 	
-interface Kaj{</br><br><br>
-  title: string;<br><br><br>
-  bill: number;<br><br><br>
-  suti: boolean;<br><br><br>
-}<br><br><br>
-const kaj: Kaj ={<br><br><br>
-  title: "Boss",<br><br><br><br><br>
-  bill: 2200,<br><br><br><br>
-  suti : false,<br><br><br>
-}<br><br><br>
+interface Kaj{ 
+  title: string;<br 
+  bill: number;<br> 
+  suti: boolean;<br> 
+}<br> 
+const kaj: Kaj ={<br> 
+  title: "Boss",<br>
+  bill: 2200,<br><br> 
+  suti : false,<br> 
+}<br> 
 	
 </code>
 
