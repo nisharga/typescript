@@ -87,9 +87,9 @@ const Person: FC<Props> = ({name, age}) => {}<br>
 
 <b>************* Clone a repo from Github and upload it on own github ************************* </b><br>
 <code>git clone --bare</code> (git link) Clone a repo with commit and all those things<br>
-after that go to git folder like this......... cd folderName.git<br>
+after that go to git folder like this......... <code>cd folderName.git</code><br>
 Then create a new Repo on GitHub && collect the NewGitLink<br>
-after that command this............ git push mirror NewGitLink.git<br><br>
+after that command this............ <code>git push mirror NewGitLink.git</code><br><br>
 
 
 <b>************* Local folder github upload repo change origin *************************</b><br>
