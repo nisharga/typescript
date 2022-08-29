@@ -1,0 +1,93 @@
+************** TypeScript Vs es6 *****************************
+everything is same to same, but only difference is ":string" this line.
+let student: string = 'nisharga';
+when we use es6, we use let student = 'nisharga';
+but in typeScript.... let student: string = 'nisharga';
+
+let age: number = 10;
+let isSmart: boolean = false;
+
+let presedent: string[] = ['jho', 'baidan', 'Love', 'hope'];
+let numbers: number[] = [1, 2, 3];
+
+when object or array this type of things happen.....
+
+const person: {name: string, age: number, job: string} = {
+  name: "Nisharga",
+  age: 20,
+  job: 'kaj nai'
+}
+
+then smartest method this is......................
+
+interface Kaj{
+  title: string;
+  bill: number;
+  suti: boolean;
+}
+const kaj: Kaj ={
+  title: "Boss",
+  bill: 2200,
+  suti : false,
+}
+
+
+
+
+**************** using UseState **********************
+interface User{
+  name: string;
+  job: string;
+}
+
+const [user, setUser] = useState<User | null>(null);
+const handleIncrise = (): void=>  {
+    setCounter(counter + 1);
+  }
+const handleUserSubmit = (e : any) => {
+    e.preventDefault();
+    const userdata = {
+      name: "Nisharga",
+      job: "Bekar",
+    }
+    setUser(userdata);
+  }
+<button onClick={handleUserSubmit}>Add User</button> 
+
+
+
+************************ Using Props ******************
+<Person name="Nisharga" age={22}></Person>
+const Person = ({name, age}: {
+    name: any;
+    age: any;
+}) => {
+	return(
+<h2>Person name is {name} and age is {age}</h2>
+);
+}
+
+
+interface Props{
+    name: string;
+    age: number;
+}
+const Person: FC<Props> = ({name, age}) => {}
+
+
+
+
+
+
+************* Clone a repo from Github and upload it on own github *************************
+git clone --bare (git link) Clone a repo with commit and all those things
+after that go to git folder like this......... cd folderName.git
+Then create a new Repo on GitHub && collect the NewGitLink
+after that command this............ git push mirror NewGitLink.git
+
+
+************* Local folder github upload repo change origin *************************
+If already in Local Folder, Already file upload in a git repo. But you want to change .git location
+first check in that folder by this comand... git remote -v 
+then collect the new origin && comand here....... git remote set-url origin newOrigin.git
+then again check the origin.......... git remote -v 
