@@ -20,7 +20,9 @@ const person: {name: string, age: number, job: string} = {<br>
 </code>
 
 then smartest method this is......................<br>
+
 <code>
+	
 interface Kaj{<br>
   title: string;<br>
   bill: number;<br>
@@ -31,7 +33,9 @@ const kaj: Kaj ={<br>
   bill: 2200,<br><br>
   suti : false,<br>
 }<br>
+	
 </code>
+
 
 
 
