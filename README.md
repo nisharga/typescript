@@ -1,4 +1,4 @@
-************** TypeScript Vs es6 *****************************
+************** TypeScript Vs es6 *****************************<br>
 everything is same to same, but only difference is ":string" this line.
 let student: string = 'nisharga';
 when we use es6, we use let student = 'nisharga';
@@ -18,7 +18,7 @@ const person: {name: string, age: number, job: string} = {
   job: 'kaj nai'
 }
 
-then smartest method this is......................
+then smartest method this is......................<br>
 <code>
 interface Kaj{
   title: string;
