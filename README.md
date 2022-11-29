@@ -101,3 +101,16 @@ If already in Local Folder, Already file upload in a git repo. But you want to c
 first check in that folder by this comand... <code>git remote -v </code><br>
 then collect the new origin && comand here....... <code>git remote set-url origin newOrigin.git</code><br>
 then again check the origin.......... <code>git remote -v </code><br>
+	
+	
+<b>************* Deploy FrontEnd in Vercel *************************</b><br>
+Firstly you have to install in your PC via:  <code> <b> npm i -g vercel </b> </code> 
+Secondly, Create an acccount on vercel.com.
+
+Vercel deploy	
+0.in npm comand vercel (then login)
+1.Setup and deploy "address" - Y
+2.scope (Account name) - select that
+3.Link to existing project - N
+4.Whats your project name - Enter + Enter
+5.Want to modify these settings - N
