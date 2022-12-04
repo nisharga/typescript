@@ -116,3 +116,6 @@ Secondly, Create an acccount on vercel.com.
 5.Want to modify these settings - N</b><br>
 
 <h1>Top Tip to get a job:</h1>
+<h3>1.No one is ready for any exam, so never worrid about solid interview</h3>
+<h3>2.Resume Strong verbs</h3> 
+<h3>3.Courage, Effort, Persistence</h3>
