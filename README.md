@@ -107,7 +107,7 @@ then again check the origin.......... <code>git remote -v </code><br>
 Firstly you have to install in your PC via:  <code> <b> npm i -g vercel </b> </code> 
 Secondly, Create an acccount on vercel.com.
 
-#Vercel deploy	
+#Vercel deploy</b><br>	
 0.in cmd comand vercel (then login)</b><br>
 1.Setup and deploy "address" - Y</b><br>
 2.scope (Account name) - select that</b><br>
