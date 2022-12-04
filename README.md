@@ -115,4 +115,5 @@ Secondly, Create an acccount on vercel.com.
 4.Whats your project name - Enter + Enter</b><br>
 5.Want to modify these settings - N</b><br>
 
-#Top Tip to get a job:
+<b><h2>Top Tip to get a job:</h2></b>
+1.
