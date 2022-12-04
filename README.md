@@ -114,3 +114,5 @@ Secondly, Create an acccount on vercel.com.
 3.Link to existing project - N</b><br>
 4.Whats your project name - Enter + Enter</b><br>
 5.Want to modify these settings - N</b><br>
+
+#Top Tip to get a job:
