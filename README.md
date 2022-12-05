@@ -119,3 +119,7 @@ Secondly, Create an acccount on vercel.com.
 <h3>1.No one is ready for any exam, so never worrid about solid interview</h3>
 <h3>2.Resume Strong verbs</h3> 
 <h3>3.Courage, Effort, Persistence</h3>
+<h3>4.You need only 1 job, not thousands</h3>
+<h3>5.(Forget any interview question answer, thats how you reply it)
+I knew it. Working on it. But somehow forgot it. 
+But if it is important to you, if you give me some time, then I can explore.</h3>
