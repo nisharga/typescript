@@ -120,6 +120,21 @@ Secondly, Create an acccount on vercel.com.
 <h3>2.Resume Strong verbs</h3> 
 <h3>3.Courage, Effort, Persistence</h3>
 <h3>4.You need only 1 job, not thousands</h3>
-<h3>5.(Forget any interview question answer, thats how you reply it)
-I knew it. Working on it. But somehow forgot it. 
+<h3>5.</h3>(Forget any interview question answer, thats how you reply it)
+<h3>I knew it. Working on it. But somehow forgot it. 
 But if it is important to you, if you give me some time, then I can explore.</h3>
+
+<h1>When Ask Do you have any Question:</h1>
+<h3>1.How do you decide which technology to use?</h3>
+<h3>2.We will learn online. But do you have any culture to teach?</h3>
+<h3>3.What do you like about working here?</h3>
+<h3>4.If I start work here. What to expect in the first month.</h3>
+
+<h1>What Next?</h1>
+<h3>1.Node-Mongo</h3>
+<h3>2.Redux</h3>
+<h3>3.TypeScript</h3>
+<h3>4.React-Native</h3>
+<h3>5.Tdd, Unit test</h3> 
+<h3>5.Tdd, Unit test</h3> 
+<h3>6.Assignment Need: <code>Creative Agency</code>, <code>Luxury Living</code>, <code>Air Cnc</code> <code>Whatsapp</code></h3> 
